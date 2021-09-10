@@ -7,10 +7,10 @@ public class BasicTextBlocks {
 
     private void run() {
         System.out.println("""
-              <html>
-                 <body>
-                    <p>
-                       <div>Finally some text with "</div>
-   """);
+<html>
+ <body>
+    <p>
+       <div>Finally some text with "</div>
+""");
     }
 }
